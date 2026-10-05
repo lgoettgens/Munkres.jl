@@ -1,6 +1,6 @@
 name = "Munkres"
 uuid = "4cefb923-2b6f-58c4-9e65-6821f26b7b51"
-version = "0.2.0"
+version = "0.2.1"
 
 [compat]
 Combinatorics = "1"
